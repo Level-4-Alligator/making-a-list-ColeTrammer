@@ -5,8 +5,6 @@
 
  */
 
-import java.util.Scanner;
-
 /*  Class Node  */
 class Node {
 	protected Object data;
